@@ -1,0 +1,20 @@
+{
+  "name": "require",
+  "authors": [
+    "masatoshi.atsumi <masatoshi.atsumi@seattleconsulting.co.jp>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "requirejs-plugins": "^1.0.3"
+  }
+}
